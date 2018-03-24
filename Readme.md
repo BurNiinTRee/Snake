@@ -5,9 +5,9 @@ This is a snake clone written in Rust with WebAssembly using the stdweb crate.
 Move with the arrow keys.
 
 # Building
-## Install Rust
+## Install Rust nightly
 ```sh
-$ curl https://sh.rustup.rs -sSf | sh
+$ curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain nightly
 ```
 ## Install the `wasm32-unknown-unknown` target
 ```sh
