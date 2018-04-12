@@ -1,5 +1,5 @@
 # Snake
-This is a snake clone written in Rust with WebAssembly using the stdweb crate.
+This is a snake clone written in Rust with WebAssembly using the stdweb crate. You can play it [here](https://burniintree.github.io).
 
 # Usage
 Move with the arrow keys.
